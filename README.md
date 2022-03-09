@@ -1,5 +1,5 @@
 # Face_Recognition
 
-## Using Caffe Recognition Model and Creatin Face Recognitio APP.
+### By using Cafee Model ,created Face Recognition APP.
 
 #### ignore update version
